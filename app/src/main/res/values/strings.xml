@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MIPT_3Praktikosdarbas</string>
+    <string name="title">Zodziu skaiciavimo programele</string>
+    <string name="words">Zodzius</string>
+    <string name="sentences">Sakinius</string>
+    <string name="numbers">Skaiciu kieki</string>
+    <string name="punctuation">Rasybos zenklus</string>
+    <string name="input">Įveskite tekstą</string>
+    <string name="calculate">Apskaičiuokite</string>
+    <string name="choose">Pasirinkite skaičiavimo tipą</string>
+    <string name="empty_input">Prašome įvesti tekstą</string>
+    <string name="result">Rezultatas:</string>
+
+</resources>
